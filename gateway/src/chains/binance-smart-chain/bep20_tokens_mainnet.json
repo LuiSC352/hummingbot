@@ -35,6 +35,14 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
     },
     {
+      "name": "Ai Shiba",
+      "symbol": "AISHIBA",
+      "address": "0x99b8cD364E67155CEB5c72745cDCa93dBd7ff40b",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x99b8cD364E67155CEB5c72745cDCa93dBd7ff40b.png"
+    },
+    {
       "name": "Ethereum Token",
       "symbol": "ETH",
       "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
