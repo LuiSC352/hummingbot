@@ -35,14 +35,6 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
     },
     {
-      "name": "MONDAY Doge",
-      "symbol": "MONDAYDoge",
-      "address": "0x8888002F72bd17f0E9fb664aa97f8a0429298888",
-      "chainId": 56,
-      "decimals": 9,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x8888002F72bd17f0E9fb664aa97f8a0429298888.png"
-    },
-    {
       "name": "Ethereum Token",
       "symbol": "ETH",
       "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
