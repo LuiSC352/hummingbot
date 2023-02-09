@@ -6,3 +6,11 @@
       "decimals": 18,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x99b8cD364E67155CEB5c72745cDCa93dBd7ff40b.png"
     },
+    {
+      "name": "The Sandbox Token",
+      "symbol": "SAND",
+      "address": "0x67b725d7e342d7B611fa85e859Df9697D9378B2e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x67b725d7e342d7B611fa85e859Df9697D9378B2e.png"
+    }
