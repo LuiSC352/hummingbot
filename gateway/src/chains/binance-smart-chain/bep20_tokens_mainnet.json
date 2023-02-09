@@ -27,6 +27,14 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
     },
     {
+      "name": "The Sandbox Token",
+      "symbol": "SAND",
+      "address": "0x67b725d7e342d7B611fa85e859Df9697D9378B2e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x67b725d7e342d7B611fa85e859Df9697D9378B2e.png"
+    },
+    {
       "name": "BUSD Token",
       "symbol": "BUSD",
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
